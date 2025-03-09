@@ -7,13 +7,13 @@
     
     ## 🌺 **About_Me**🌺
 
-    ✧˚💻🧋📓 ༘ **Passionate Developer & AI Engineer**
-    👨🏻‍💻💻</>👨🏻‍💻🌐  **Full Stack Development (Next.js, HTML,CSS, TypeScript, Tailwind CSS)**  
-    ๋࣭ ⭑✮💻₊ ⊹ **Machine Learning & AI (Python, OpenAI)** 
+    ✧˚💻 **Passionate Developer & AI Engineer**
+    👨🏻‍💻  **Full Stack Development (Next.js, HTML,CSS, TypeScript, Tailwind CSS)**  
+    ๋࣭ 💻 **Machine Learning & AI (Python, OpenAI)** 
+    ---
+
+
     ----
-
-
-    -----
     ## ☎️ **Contact ME**
     <p align="center">
   <a href="https://github.com/AZ-AZEEZULLAH">
