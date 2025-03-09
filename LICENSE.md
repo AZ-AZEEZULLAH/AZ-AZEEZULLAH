@@ -11,7 +11,7 @@
     👨🏻‍💻💻</>👨🏻‍💻🌐  **Full Stack Development (Next.js, HTML,CSS, TypeScript, Tailwind CSS)**  
     ๋࣭ ⭑✮💻₊ ⊹ **Machine Learning & AI (Python, OpenAI)** 
     ----
-    🌐 [Visit My Portfolio](https://AZ-AZEEZULLAH.github.io/)
+
 
     -----
     ## ☎️ **Contact ME**
