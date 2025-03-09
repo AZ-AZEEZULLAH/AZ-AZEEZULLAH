@@ -2,7 +2,7 @@
     <h1 align="center"> 🍁Iam Azeezullah Noohpoto 🍁 </h1>
     <h2 align="center"> 🚀 Full Stack Developer | 🚀 AI Engineer</h2>
     
-    <p align="center"> img src="https://imagef2.promeai.pro/process/do/8bb892d91b807064d852f19967b8cb3f.webp?sourceUrl=/g/p/gallery/publish/2024/08/05/97c8d6af51314dd19909039ed996bf2f.jpg&x-oss-process=image/watermark,image_ZGVmYXVsdA,t_100,P_20,g_south,y_32/format,webp&sign=db102ab6154dd6bfe1a9078bc6e4acea" />
+    <p align="center"><img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="220" height="220" style="border-radius:50%; border:4px solid #ff4500;" />"
     </p>
     
     ## 🌺 **About_Me**🌺
