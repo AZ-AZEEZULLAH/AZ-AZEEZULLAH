@@ -1,6 +1,6 @@
 <h1 align="center"> 💢Hello 👋   السلام علیکم 👋💢</h1>
 <h1 align="center"> 🍁I am Azeezullah Noohpoto 🍁 </h1>
-<h2 align="center"> 🚀 Full Stack Developer | 🚀 AI Engineer | 🚀UIUX-Designer</h2>
+<h2 align="center"> 🚀 Full Stack Developer | 🚀 AI Engineer | 🚀UIUX-Designer | 🚀Next.js Developer</h2>
 <
 
 <p align="center">
