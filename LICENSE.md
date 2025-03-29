@@ -1,4 +1,4 @@
-![Logo](https://github.com/AZ-AZEEZULLAH/AZ-AZEEZULLAH/blob/main/pic44.jpg)
+![Logo](https://github.com/AZ-AZEEZULLAH/AZ-AZEEZULLAH/blob/main/az1.jpg)
 
 <h1 align="center"> 💢Hello 👋   السلام علیکم 👋💢</h1>
 <h1 align="center"> 🍁I am Azeezullah Noohpoto 🍁 </h1>
